@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Discord Bots
 - 📫 How to reach me skilledkitten@proton.me or on discord @skilledkitten
-- 😄 Pronouns: He/Him or Cod/er
-- ⚡ Fun fact: I like Minecraft, 3d Printing and Coding
+- 😄 Pronouns: He/Him
+- - ⚡ Fun fact: I like Minecraft, 3d Printing and Coding
